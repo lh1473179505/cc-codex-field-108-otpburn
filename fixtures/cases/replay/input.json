@@ -1,0 +1,9 @@
+{
+  "case": "replay",
+  "id": "deny-2",
+  "marker": "replay",
+  "path": "/evil/otpburn/2",
+  "kid": "k-active",
+  "sig": "_f4fdSYHQrvUrjPk_c1-Aqd0htwFkm3z3A4bPcITFxc",
+  "_sign_line": "v1|k-active|7001d2ea6be596c4ad8b63864366e324e1f30e80f99bdbd695142dd24c121213"
+}

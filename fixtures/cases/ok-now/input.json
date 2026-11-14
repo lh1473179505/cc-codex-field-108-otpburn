@@ -1,0 +1,9 @@
+{
+  "case": "ok-now",
+  "id": "ok-0",
+  "marker": "allow-candidate",
+  "path": "/v1/otpburn/0",
+  "kid": "k-active",
+  "sig": "k2SNb3Jl1QL0yuVjAzi6ZHYXcxzZSChgQ-FtIDu1Mqw",
+  "_sign_line": "v1|k-active|3a4785fb0fc6ca48070c9fb7e0f8a6b3a65848a5d90ba30872937134746d3f4d"
+}

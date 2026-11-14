@@ -1,0 +1,9 @@
+{
+  "case": "account",
+  "id": "deny-5",
+  "marker": "account",
+  "path": "/evil/otpburn/5",
+  "kid": "k-active",
+  "sig": "OM7LrvVVcBmPucvENYtEdAQSSbaQxL3HWIUk9GdujVU",
+  "_sign_line": "v1|k-active|0d501dc108b5627d30432a45f4efd0d24ced2d5c0027bd11680d6fc195b6a558"
+}

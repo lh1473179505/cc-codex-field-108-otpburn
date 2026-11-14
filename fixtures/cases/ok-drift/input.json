@@ -1,0 +1,9 @@
+{
+  "case": "ok-drift",
+  "id": "ok-1",
+  "marker": "allow-candidate",
+  "path": "/v1/otpburn/1",
+  "kid": "k-active",
+  "sig": "IqO4PB29hA_F_Mzb0cY3Glj4Yp7KNeg_ngv24v9abK4",
+  "_sign_line": "v1|k-active|cf1011207329ba6bb6f58cb1928a832aaa90cc5e7186fd49d6f7d59b0fbc4411"
+}

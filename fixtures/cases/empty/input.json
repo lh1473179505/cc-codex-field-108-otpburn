@@ -1,0 +1,9 @@
+{
+  "case": "empty",
+  "id": "deny-7",
+  "marker": "empty",
+  "path": "/evil/otpburn/7",
+  "kid": "k-active",
+  "sig": "JUUNEaG8-K3s9g4HF3tFWP_J9zGKCwLNODbM0ezz_OI",
+  "_sign_line": "v1|k-active|64d899819bf81930d18b26de85d3f055c400f4615b80637711f2675e2894869d"
+}

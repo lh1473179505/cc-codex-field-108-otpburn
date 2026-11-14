@@ -1,0 +1,9 @@
+{
+  "case": "bad-code",
+  "id": "deny-0",
+  "marker": "bad-code",
+  "path": "/evil/otpburn/0",
+  "kid": "k-active",
+  "sig": "NFizJQfSfZ0GDNfN134q4lihh2fqhjOxNrgHhYgsJK8",
+  "_sign_line": "v1|k-active|87d9845b42cf9a17caa7f9dd169ab08185e0853e9e75d2fa63c699da177990b6"
+}

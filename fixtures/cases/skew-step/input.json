@@ -1,0 +1,9 @@
+{
+  "case": "skew-step",
+  "id": "deny-6",
+  "marker": "skew-step",
+  "path": "/evil/otpburn/6",
+  "kid": "k-active",
+  "sig": "g2lMgfZXnfqDVt_gfh0SNBLpmsuPCUAd9-F5URqAjK0",
+  "_sign_line": "v1|k-active|a9074dafc1aaa10faaef974c3adac17740c985096026194506a28e8fcc04b728"
+}

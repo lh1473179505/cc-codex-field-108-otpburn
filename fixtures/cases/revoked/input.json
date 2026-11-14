@@ -1,0 +1,9 @@
+{
+  "case": "revoked",
+  "id": "deny-3",
+  "marker": "revoked",
+  "path": "/evil/otpburn/3",
+  "kid": "k-revoked",
+  "sig": "BZGLlc2He3ORS6WYpOrtt8FiyEj4N8PAGEH5kvqBiRA",
+  "_sign_line": "v1|k-revoked|08326cb85a2cb5911a36016a80f6d13a492300378d71f8e4ff4a8dd65d2ce40a"
+}

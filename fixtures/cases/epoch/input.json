@@ -1,0 +1,9 @@
+{
+  "case": "epoch",
+  "id": "deny-4",
+  "marker": "epoch",
+  "path": "/evil/otpburn/4",
+  "kid": "k-active",
+  "sig": "Qo7b2EtyTlbcWoArmlvNnibPrvo_grgPCXgdIw6qUzE",
+  "_sign_line": "v1|k-active|9c9407413f1f959781ee6a6cd39d25aaeaa70f1b9a90bc290ae85a60f1fe9c5d"
+}

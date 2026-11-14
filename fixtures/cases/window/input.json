@@ -1,0 +1,9 @@
+{
+  "case": "window",
+  "id": "deny-1",
+  "marker": "window",
+  "path": "/evil/otpburn/1",
+  "kid": "k-active",
+  "sig": "Hqaia4yYvhgSQygTDzVJAh7m6QlNNBgQX8l0X63XNLE",
+  "_sign_line": "v1|k-active|de6c41b97830039c37e280ae370a8b37a980359300520910af6d634c43379b22"
+}
